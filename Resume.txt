@@ -1,0 +1,106 @@
+<html>
+
+<title>Resume</title>
+
+<h1 style="text-align:center;">Resume</h1>
+<div>
+	<style>
+	body{margin:0;
+	padding:0;
+	font-family:TimesNewRoman;
+	
+	<!--background:blue;-->
+	background-size:cover;}
+	
+	</style>
+	<body>
+	<img src="F:\eDac\Web Programming\dp2.jpeg"width="200"height="200"align="left">
+	<h2 style="text-align:center;"><b>Name:Pooja Salgar</b></h2>
+	<h3 style="text-align:center;"><b>Software Engineer</b></h3>
+	<link >
+	<p style="text-align:center;">EmailId:poojasalgar95@gmail.com</p>
+	   <p style="text-align:center;"> Mobile no.9890495514</p><br><br><br>
+	   <hr>
+	  </body>
+</div>	   
+ <h2>Objective:<h2>  
+ <p>I seek a job as a software engineer in a software company where I can use my
+knowledge of C, C++, and JAVA. I wish to contribute towards organizational goals through
+my technical skills, hard work and creativity</p>
+<h3><u>Educational Excellence:</u></h3>
+
+  <style>
+table,th,td{  border:2px solid black;text-align:center;border-collapse:collapse;}
+</style>
+
+  <table>
+    <th>Exam Passed</th>
+    <th>Institution</th>
+    <th>University</th>
+	<th>Percentage</th>
+  
+  <tr>
+    <td>B.E (E&TC Engg.)</td>
+    <td>M.E.S.C.O.E.,Pune</td>
+    <td>S.P.P.U.</td>
+	<td>60%<td>
+
+  </tr>
+  <tr>
+    <td>Diploma(E&TC)</td>
+    <td>Shri.Siddheshwar women’s polytechnic,Solapur</td>
+    <td>M.S.B.T.E</td>
+	<td>70.82%</td>
+
+  </tr>
+  <tr>
+  <td>S.S.C </td>
+    <td>Suyash Vidyalaya,Solapur</td>
+    <td>State Board</td>
+	<td>85.64%</td>
+  </tr>
+
+</table>
+
+<h3><u>PROJECT DETAILS:</u></h3>
+<h4><b>1.Surksha :An outcry against women’s security system</b></h4>
+<li><b>Level:</b> Diploma last year, <b>Team size:</b> 4,<b> Duration:</b> 1 year
+<b>Organization:</b>S.S.W.P., Solapur</li>
+<h4>2.Automatic facial expression recognition</h4>
+<li><b>Level:</b> Engineering last year,<b> Team size:</b> 3,<b> Duration:</b>1 year
+<b>Organization: M.E.S.C.O.E., Pune
+</li>
+<h3><u>INDUSTRY VISITS:</u></h3>
+<li>Visited to RTTC BSNL office on an industrial visit organized by our college</li>
+<li>Visited to ISRO Bangalore</li>
+<h3><u>COMPUTER PROFICIENCY:</u></h3>
+<li>Skills in “C” ,”C++”,”JAVA” ,”Advance JAVA ”Programming.</li>
+<li>Also know Embedded Systems Language and Microcontroller.</li>
+<li>Short term knowledge in Hardworking and Networking.</li>
+<li>Short term Knowledge in control system & PLC.</li>
+<h3><u>CO-CURRICULAR ACTIVITIES:</u></h3>
+<li>Participated in Inter college youth festival.</li>
+<li>Ability to handler leadership</li>
+<li>Dancing & Drawing.</li>
+<li>Like to listen Music</li>
+<li>Interested in sports</li>
+<h3><u>PERSONAL DETAILS:</u></h3>
+<li><b>Permanent Address-</b>347, Jodbhavi peth, Kanna chowk, Solapur.413005</li>
+
+<li><b>Date of Birth- </b>                    21st May 1996.</li>
+
+<li><b>College-</b>                               M.E.S.C.O.E., Pune.</li>
+
+
+<li><b>University-</b>                           S.P.P.U., Pune.</li>
+
+<li><b>Gender/Marital Status-</b>   Female/Unmarried.</li>
+
+<li><b>Nationality-</b>                        Indian</li>
+
+<li><b>Languages Known-<b>           Marathi, Hindi, English,Kannada</li>
+<hr>
+<h3><u>DECLARATION:</u></h3>
+<p>I hereby declare that above furnished information is true to best of my Knowledge.</p>
+<h4 style="text-align:right;">Pooja Salgar</h4>
+</html>
