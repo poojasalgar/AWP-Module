@@ -1,0 +1,32 @@
+<!Doctype html>
+<html>
+	<head>
+		<title>Trabillizers</title>
+	
+	</head>
+	<style>
+	body{margin:0;
+	padding:0;
+	font-family:TimesNewRoman;
+	fount-color:red;
+	background:url(images.jpg) no-repeat;
+	background-size:cover;}
+	</style>
+	<body>
+	<div>
+		<h1>Login Form</h1>
+		<form action ="/" method="get">
+		<div>
+		<label for="User Name">User Name:</label>
+		<input type="text" id="username" placeholder="Pooja"></br>
+		</div>
+		<div>
+		<label for="Password">Password:</label>
+		<input type="password" id="password" placeholder="9890">
+		</div>
+		<input type="Submit" value="Click here">
+		<a href="file:///F:/eDac/Web%20Programming/Resume.html">Click here</a>
+		</form>
+	</div>
+	</body>
+</html>
